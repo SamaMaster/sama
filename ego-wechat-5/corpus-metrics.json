@@ -1,0 +1,135 @@
+{
+  "corpus": {
+    "listed_links": 139,
+    "unique_links": 138,
+    "exact_duplicate_links": 1,
+    "accessible": 132,
+    "failed": 6,
+    "access_rate_percent": 95.7,
+    "failure_reasons": {
+      "security_verification": 3,
+      "author_privacy_restriction": 3
+    }
+  },
+  "title": {
+    "chars": {
+      "min": 4,
+      "p25": 15,
+      "median": 20,
+      "p75": 32,
+      "max": 66,
+      "mean": 24.8
+    },
+    "feature_counts": {
+      "has_number": 39,
+      "has_quote": 27,
+      "curiosity_gap": 24,
+      "social_proof": 24,
+      "money_or_price": 24,
+      "has_question": 23,
+      "has_exclamation": 22,
+      "conflict_risk": 22,
+      "edge_or_sexualized": 21,
+      "useful_howto": 15,
+      "first_person": 14,
+      "authority_or_scarcity": 14,
+      "timely_event": 11,
+      "second_person": 6,
+      "has_ellipsis": 4
+    },
+    "feature_percent_of_accessible": {
+      "has_number": 29.5,
+      "has_quote": 20.5,
+      "curiosity_gap": 18.2,
+      "social_proof": 18.2,
+      "money_or_price": 18.2,
+      "has_question": 17.4,
+      "has_exclamation": 16.7,
+      "conflict_risk": 16.7,
+      "edge_or_sexualized": 15.9,
+      "useful_howto": 11.4,
+      "first_person": 10.6,
+      "authority_or_scarcity": 10.6,
+      "timely_event": 8.3,
+      "second_person": 4.5,
+      "has_ellipsis": 3
+    }
+  },
+  "content": {
+    "body_chars": {
+      "min": 4,
+      "p25": 166,
+      "median": 713,
+      "p75": 1393,
+      "max": 6216,
+      "mean": 1011
+    },
+    "image_count": {
+      "median": 3,
+      "p75": 9,
+      "max": 134,
+      "zero_count": 48
+    },
+    "content_forms": {
+      "long_rich_media": 41,
+      "medium_text": 26,
+      "short_text": 19,
+      "short_or_media_led": 18,
+      "medium_rich_media": 11,
+      "long_text": 9,
+      "image_led": 8
+    },
+    "primary_topics": {
+      "汽车出行": 19,
+      "生活方式": 19,
+      "科技科学": 13,
+      "电竞游戏": 13,
+      "情感性别": 13,
+      "娱乐明星": 12,
+      "艺术文化": 11,
+      "商业职场": 10,
+      "历史知识": 9,
+      "社会新闻": 7,
+      "其他": 6
+    },
+    "topics_multi_label": {
+      "情感性别": 58,
+      "商业职场": 56,
+      "生活方式": 43,
+      "艺术文化": 39,
+      "历史知识": 38,
+      "汽车出行": 37,
+      "科技科学": 35,
+      "娱乐明星": 29,
+      "社会新闻": 22,
+      "电竞游戏": 19,
+      "其他": 5
+    }
+  },
+  "accounts": {
+    "known_count": 107,
+    "unique_known_accounts": 101,
+    "top_accounts": {
+      "美术观止": 3,
+      "邱处机": 2,
+      "旧梦皆峡谷": 2,
+      "水哥逛峡谷": 2,
+      "搞车学堂": 2,
+      "极克侠": 1,
+      "凝新世界": 1,
+      "渣男杀手阿盐姐": 1,
+      "燃力钛": 1,
+      "鱼眼洞察": 1,
+      "书画新风景": 1,
+      "自豪QAQ": 1,
+      "大淞要成长": 1,
+      "大渔大师课": 1,
+      "蓝迪教你穿衣潮搭配": 1,
+      "采一束葵": 1,
+      "黄金多宝": 1,
+      "设计赛圈": 1,
+      "汽车评中评": 1,
+      "谢小楼": 1
+    }
+  }
+}

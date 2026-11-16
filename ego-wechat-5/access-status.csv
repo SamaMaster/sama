@@ -1,0 +1,6 @@
+sample_id,url,status,http_page_result,title,author,account,published_at,ip_location,body_text_chars,image_nodes,interaction_counts,notes
+WX-0001,https://mp.weixin.qq.com/s/_lygst1yCTFdbsZUXDi2Zw,success,正文容器完整返回,理想i6昨晚首销：23.98万，服务器先崩了,极克侠,极克侠,2026-10-29 09:14,内蒙古,2128,3,不可得,页面标注原创；显示疑似包含AI生成内容
+WX-0002,https://mp.weixin.qq.com/s/X31dvILjZ5BG6i9Mmt7rag,success,正文容器完整返回,"9旬央美老院长靳尚谊画妻子4作，他是有多喜欢画自己的夫人啊",丞廬,美术观止,2026-09-23 21:00,广西,779,6,不可得,页面标注原创；可见喜欢作者按钮但无数值
+WX-0003,https://mp.weixin.qq.com/s/LmaJjdZltHkaSHHF3vj9Bg,success,正文容器完整返回,外媒公布我国绝密航天飞机目前最清晰正面照,伍鲦鱼,凝新世界,2026-10-28 12:40,河南,1497,9,不可得,页面标注原创；修改于2026-10-29
+WX-0004,https://mp.weixin.qq.com/s/kky1qX5eoYMF4nn5yc8ipA,success,正文容器完整返回,我被公众号判定为色情博主了。,未公开,渣男杀手阿盐姐,2026-10-17,上海,529,0,不可得,特殊精简页面；账号来自页面分享元数据；页面仅显示月日；作者字段未公开
+WX-0005,https://mp.weixin.qq.com/s/-nPs2UYpvmy-ryu_hg50tg,success,正文容器完整返回,奕境X9上市一个月就起火，总经理回应了！,小钛,燃力钛,2026-10-29 11:25,广东,1423,23,不可得,页面标注原创
